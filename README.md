@@ -1,8 +1,9 @@
 # Python Data Analytics
 
-A professional portfolio project demonstrating **Pandas, NumPy, data cleaning, exploratory analysis, reusable Python functions, statistical summaries, automation, forecasting basics and visualisation-ready outputs**.
 
-> **Data note:** The dataset is fully synthetic and created specifically for this portfolio project.
+## Demo Preview
+
+![Python analytics pipeline preview](assets/dashboard-preview.png)
 
 ## Why This Project Exists
 
